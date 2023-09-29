@@ -1,8 +1,7 @@
-// 
-Created by: Marc Siwy
-Creaetd on: Septmber 2023
-Turns on LED for one second, then off for one second, and repeats. 
-//
+// Created by: Marc Siwy
+//Creaetd on: Septmber 2023
+//Turns on LED for one second, then off for one second, and repeats. 
+
 void setup()
 {
   pinMode(LED_BUILTIN, OUTPUT);
